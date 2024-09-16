@@ -1,0 +1,23 @@
+label{
+    background-color: blue;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 5px;
+}
+button{
+    background-color: red;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+input{
+    padding: 10px;
+}
+.a{
+    display: flex;
+    justify-content: start;
+    background-color: black;
+    color: antiquewhite;
+    border-radius: 10px;
+}
