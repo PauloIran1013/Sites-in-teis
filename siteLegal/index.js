@@ -14,7 +14,7 @@ formulario.addEventListener('submit', (e) => {
         cr7.innerHTML = "Você é o Cristiano Ronaldo";
         imagemM.src = "img/cr7.jfif";
     } else {
-        cr7.innerHTML = " é o Cristiano Ronaldo";
+        cr7.innerHTML = "Você é o Cristiano Ronaldo";
         imagemM.src = "img/images.jfif";
     }
 });
